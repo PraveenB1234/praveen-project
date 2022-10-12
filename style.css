@@ -1,0 +1,265 @@
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    padding: 015px;
+}
+.row {
+    display: flex;
+	flex-wrap: wrap;
+	margin: 0 -15px;
+}
+.col-lg-1 {
+	width: 8.33%;
+	padding: 0 15px;
+}
+.col-lg-2 {
+	width: 16.66%;
+	padding: 0 15px;
+}
+.col-lg-3 {
+	width: 25%;
+	padding: 0 15px;
+}
+.col-lg-4 {
+	width: 33.33%;
+	padding: 0 15px;
+}
+.col-lg-5 {
+	width: 41.66%;
+	padding: 0 15px;
+}
+.col-lg-6 {
+	width: 50%;
+	padding: 0 15px;
+}
+.col-lg-7 {
+	width: 58.33%;
+	padding: 0 15px;
+}
+.col-lg-8 {
+	width: 66.66%;
+	padding: 0 15px;
+}
+.col-lg-9 {
+	width: 75%;
+	padding: 0 15px;
+}
+.col-lg-10 {
+	width: 83.33%;
+	padding: 0 15px;
+}
+.col-lg-11 {
+	width: 91.66%;
+	padding: 0 15px;
+}
+.col-lg-12 {
+	width: 100%;
+	padding: 0 15px;
+}
+.align-items {
+	align-items: center !important;
+}
+
+.header-content {
+	background: yellow;
+	height: 110px;
+	padding-top: 10px;
+}
+.logo-nav {
+    background: black;
+	height: 30px;
+}
+
+
+.banner1-content {
+	background: black;
+	height: 210px;
+	padding-top: 10px;
+}
+.banner1-information {
+    background: yellow;
+	height: 80px;
+}
+
+
+
+.team-discussion-content {
+	background: yellow;
+	height: 210px;
+	padding-top: 10px;
+}
+.team-discussion {
+    background: black;
+	height: 80px;
+}
+
+
+.value-content {
+	background: black;
+	height: 350px;
+	padding-top: 10px;
+}
+.our-value {
+    background: yellow;
+    height: 100px;
+	margin-bottom: 20px;
+}
+.value-list {
+    background: yellow;
+	height: 100px;
+}
+
+
+
+.score-list-content {
+	background: yellow;
+	height: 100px;
+	padding-top: 10px;
+}
+.score-list {
+    background: black;
+	height: 40px;
+}
+
+
+
+
+
+.future-content {
+	background: black;
+	height: 390px;
+	padding-top: 10px;
+}
+.future-information {
+	background: yellow;
+	height: 40px;
+	margin-bottom: 10px;
+}
+.future-passage {
+    background:yellow;
+    height: 150px;
+}
+.future-list {
+    background: yellow;
+	height: 15px;
+	margin-bottom: 15px;
+	text-align:left;
+}
+
+
+/*-----------------------------------
+
+.discussion-content {
+	background: black;
+	height: 220px;
+	padding-top: 10px;
+}
+.discussion {
+    background: lightgray;
+	height: 170px;
+}
+
+.mobile-content {
+	background: lightgray;
+	height: 400px;
+	padding-top: 10px;
+}
+.mobile-information {
+	background: black;
+	height: 50px;
+	margin-bottom: 10px;
+}
+.mobile-image {
+    background: black;
+    height: 290px;
+}
+.mobile-list {
+    background: black;
+	height: 85px;
+	margin-bottom: 20px;
+}
+
+.services-content {
+	background: black;
+	height: 420px;
+	padding-top: 10px;
+}
+.services-information {
+	background: lightgray;
+	height: 50px;
+	margin-bottom: 10px;
+}
+.services-list {
+    background: lightgray;
+	height: 150px;
+	margin-bottom: 20px;
+}
+
+.pricing-content {
+	background: lightgray;
+	height: 420px;
+	padding-top: 10px;
+}
+.pricing-information {
+	background: black;
+	height: 50px;
+	margin-bottom: 10px;
+}
+.pricing-list {
+    background: black;
+	height: 300px;
+}
+
+.question-content {
+	background: black;
+	height: 290px;
+	padding-top: 10px;
+}
+.question-information {
+	background: lightgray;
+	height: 60px;
+	margin-bottom: 20px;
+}
+.questions {
+	background: lightgray;
+	height: 160px;
+}
+/*---------- portfolio start -----------*
+.portfolio-content {
+	background: lightgray;
+	height: 720px;
+	padding-top: 10px;
+}
+.portfolio-information {
+	background: black;
+	height: 50px;
+	margin-bottom: 10px;
+}
+.portfolio-list {
+    background: black;
+	height: 200px;
+	margin-bottom: 10px;
+}
+/*---------- test start -----------*
+.test-content {
+	background: black;
+	height: 330px;
+	padding-top: 10px;
+}
+.test-information {
+	background: lightgray;
+	height: 50px;
+	margin-bottom: 10px;
+}
+.test-list {
+    background: lightgray;
+	height: 200px;
+	margin-bottom: 10px;
+}
+/*---------- expert start -----------*
+.expert-content {
+	background: lightgray;
+	height: 330px;
+	padding-top: 10px;
+}
+.
